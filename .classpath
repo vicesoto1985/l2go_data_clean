@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/l2go_core_clean"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/mmocore.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/engine.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/protection.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/commons.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/geoengine.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/event-engine.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/protocols.jar"/>
+	<classpathentry kind="lib" path="/l2go_core_clean/dist/libs/sutil.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
