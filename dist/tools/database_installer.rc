@@ -1,0 +1,15 @@
+#Configuration settings for L2J-Datapack database installer script
+MYSQLDUMPPATH=/opt/homebrew/bin/mysqldump
+MYSQLPATH=/opt/homebrew/bin/mysql
+LSDBHOST=51.210.105.35
+LSDB=l2go
+LSUSER=adminVicente2022
+LSPASS=67876466-661c-11ed-ab3c-a4bf012266ea
+CBDBHOST=51.210.105.35
+CBDB=l2go
+CBUSER=adminVicente2022
+CBPASS=67876466-661c-11ed-ab3c-a4bf012266ea
+GSDBHOST=51.210.105.35
+GSDB=l2go
+GSUSER=adminVicente2022
+GSPASS=67876466-661c-11ed-ab3c-a4bf012266ea
